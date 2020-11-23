@@ -1,0 +1,41 @@
+/*ESTILOS PAG INDEX.HTML*/
+.center {
+    text-align: center;
+} 
+
+ .container {
+     display: flex;
+     flex-flow: row ;
+     justify-content: center;
+ }
+
+#menu li{
+    display: inline;
+    padding: 15px; 
+}
+
+#menu li a {
+    text-decoration: none;
+    color: #000;
+    font-size: 20px;
+}
+
+#menu li a:hover{
+    color: red;
+}
+
+.borda {
+    border-radius: 65%;
+}
+
+.wh {
+    width: 300px;
+    height: 300px;
+}
+
+.tm-rede {
+    width: 49px;
+    height: 49px;
+}
+
+/*ESTILOS PAG CONTATO.HTML*/
